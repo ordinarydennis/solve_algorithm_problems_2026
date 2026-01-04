@@ -1,1 +1,2 @@
 # solve_algorithm_problems_2026
+This is algorithm repository
